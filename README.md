@@ -10,4 +10,4 @@
 
 ####[第十二周作业 习题5.1至5.6](https://github.com/liangc0/quantum_mechanics/blob/master/%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%91%A8%E4%BD%9C%E4%B8%9A.md)
 
-####[第十三周作业 习题5.7至5.12](
+####[第十三周作业 习题5.7至5.12](https://github.com/liangc0/quantum_mechanics/blob/master/%E7%AC%AC%E5%8D%81%E4%B8%89%E5%91%A8%E4%BD%9C%E4%B8%9A_.md)
